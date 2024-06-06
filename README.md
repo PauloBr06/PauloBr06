@@ -1,16 +1,15 @@
-## Hi there 👋
+## Boas vindas ao meu perfil galera 👋
 
-<!--
-**PauloBr06/PauloBr06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Prazer Meu nome é Paulo Ricardo👋😎
 
-Here are some ideas to get you started:
+🖥️Estou estudando em uma plataforma chamada [Alura](https://alura.com.br)💻
+-Estou desenvolvendo na linguagem javascript🧑‍💻
+- Utilizo esse espaço para organização e compartilhamento dos meu projetos já desenvolvidos👨‍💻🌐
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Se quiserem podem entrar em contanto comigo🤙📱
+
+pauloclashroyale2020@gmail.com
+
+@PauloBr06
+
+![](https://media4.giphy.com/media/XARctHXJvoIQP0rH3y/200.webp?cid=790b7611uxg5qn2q19yiap8uteskpqfxupahxnv6w45zwiwb&ep=v1_gifs_search&rid=200.webp&ct=g)
