@@ -1,14 +1,16 @@
 ## Boas vindas ao meu perfil galera 👋
 
  Prazer Meu nome é Paulo Ricardo👋😎
-
-🖥️Estou estudando em uma plataforma chamada [Alura](https://alura.com.br)💻
--Estou desenvolvendo na linguagem javascript🧑‍💻
+ -tenho 18 anos
+ Estou estudando programação e pretendo cursar ads ( Analise e desenvolvimento de sistemas)
+ 
 - Utilizo esse espaço para organização e compartilhamento dos meu projetos já desenvolvidos👨‍💻🌐
 
-### Se quiserem podem entrar em contanto comigo🤙📱
+Minhas redes para contato:
 
-pauloclashroyale2020@gmail.com
+Email: pauloclashroyale2020@gmail.com
+
+Linkedin: www.linkedin.com/in/paulo-ricardo-carvalho-755493333
 
 @PauloBr06
 
