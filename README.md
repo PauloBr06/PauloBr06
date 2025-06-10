@@ -1,8 +1,8 @@
 ## Boas vindas ao meu perfil galera 👋
 
  Prazer Meu nome é Paulo Ricardo👋😎
- -tenho 119 anos
- Estou estudando programação e pretendo cursar ads ( Analise e desenvolvimento de sistemas)
+ -tenho 19 anos
+
  
 - Utilizo esse espaço para organização e compartilhamento dos meu projetos já desenvolvidos👨‍💻🌐
 
