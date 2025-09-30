@@ -5,7 +5,7 @@
   <br>
 <img src="https://devicon-website.vercel.app/api/html5/original-wordmark.svg" imgwidth="50" height="50px">
  <img src="https://devicon-website.vercel.app/api/css3/plain-wordmark.svg" img width="50" height="50">
- <img src = " https: // devicon-website.vercel.app /api/ javascript / original .svg " ></img>
+ <img src = "https://devicon-website.vercel.app/api/javascript /original-wordmark.svg" img width="50' height= "50">
  
  
 
