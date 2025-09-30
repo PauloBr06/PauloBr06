@@ -5,10 +5,11 @@
   <br>
 <img src="https://devicon-website.vercel.app/api/html5/original-wordmark.svg" imgwidth="50" height="50px">
  <img src="https://devicon-website.vercel.app/api/css3/plain-wordmark.svg" img width="50" height="50">
- <img fetchpriority="high" decoding="async" width="266" height="300" loading="lazy" src="https://skillforge.com/wp-content/uploads/2020/10/javascript-266x300.png" 
- <img alt="JavaScript" class="wp-image-11829" srcset="https://skillforge.com/wp-content/uploads/2020/10/javascript-266x300.png 266w, https://skillforge.com/wp-content/uploads/2020/10/javascript-909x1024.png 909w, https://skillforge.com/wp-content/uploads/2020/10/javascript-768x866.png 768w, https://skillforge.com/wp-content/uploads/2020/10/javascript-1363x1536.png 1363w, https://skillforge.com/wp-content/uploads/2020/10/javascript-1817x2048.png 1817w" img width= "50" height= "50">
+ importar JavascriptOriginal de "react-devicons/ javascript / original " ;
 
-
+< JavascriptOriginal />
+ 
+ 
 
  
 - Utilizo esse espaço para organização e compartilhamento dos meu projetos já desenvolvidos👨‍💻🌐
