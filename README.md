@@ -4,8 +4,10 @@
   <br>
   <br>
 <img src="https://devicon-website.vercel.app/api/html5/original-wordmark.svg" imgwidth="50" height="50px">
- <img src="https://devicon-website.vercel.app/api/css3/plain-wordmark.svg" img width="50" height="50">
- <img src = "https://devicon-website.vercel.app/api/javascript /original-wordmark.svg" img width="50' height= "50">
+<img src="https://devicon-website.vercel.app/api/css3/plain-wordmark.svg" img width="50" height="50">
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/7e561089-acf6-4e34-979d-a4d7bcb03ec0>
+
+
  
  
 
