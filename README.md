@@ -5,7 +5,7 @@
   <br>
 <img src="https://devicon-website.vercel.app/api/html5/original-wordmark.svg" imgwidth="50" height="50px">
  <img src="https://devicon-website.vercel.app/api/css3/plain-wordmark.svg" img width="50" height="50">
- <img src= https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZR9npLfmApWYC0keCwuwCDzeini7NocCW8w&s
+ <img fetchpriority="high" decoding="async" width="266" height="300" loading="lazy" src="https://skillforge.com/wp-content/uploads/2020/10/javascript-266x300.png" alt="JavaScript" class="wp-image-11829" srcset="https://skillforge.com/wp-content/uploads/2020/10/javascript-266x300.png 266w, https://skillforge.com/wp-content/uploads/2020/10/javascript-909x1024.png 909w, https://skillforge.com/wp-content/uploads/2020/10/javascript-768x866.png 768w, https://skillforge.com/wp-content/uploads/2020/10/javascript-1363x1536.png 1363w, https://skillforge.com/wp-content/uploads/2020/10/javascript-1817x2048.png 1817w" sizes="auto, (max-width: 50px) 50vw, 50px">
 
 
 
